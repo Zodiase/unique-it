@@ -1,0 +1,1 @@
+I noticed that every time I need to write some new libraries or plugins I need to write a new u function to unify name strings by adding customized prefixes. So I decided to write this tiny library to help me creating those u functions, without copy pasting from project to project.
