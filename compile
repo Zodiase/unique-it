@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar ../compiler.jar --js dev.js --js_output_file dev-compiled.js
